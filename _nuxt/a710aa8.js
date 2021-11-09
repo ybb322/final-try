@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{220:function(t,n,e){"use strict";e.r(n);var l={data:function(){return{titleXd:"aga"}}},r=e(51),component=Object(r.a)(l,(function(){var t=this,n=t.$createElement;return(t._self._c||n)("h1",[t._v(t._s(t.titleXd))])}),[],!1,null,null,null);n.default=component.exports}}]);
